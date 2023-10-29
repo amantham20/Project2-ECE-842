@@ -1,0 +1,4 @@
+Utilization: 0.5477, Average Packet Delay: 0.090234,# of packet in system: 0.760148,Packet Drop Rate: 0.0000
+Utilization: 0.6195, Average Packet Delay: 0.118346,# of packet in system: 1.143079,Packet Drop Rate: 0.0000
+Utilization: 0.6280, Average Packet Delay: 0.118047,# of packet in system: 1.158088,Packet Drop Rate: 0.0000
+Utilization: 0.6392, Average Packet Delay: 0.119213,# of packet in system: 1.190680,Packet Drop Rate: 0.0000

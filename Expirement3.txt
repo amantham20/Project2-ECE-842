@@ -1,0 +1,21 @@
+-------------------------Expirement3MM1------------------------- 
+Utilization: 0.0655, Average Packet Delay: 0.068788,# of packet in system: 0.069390,Packet Drop Rate: 0.0000
+Utilization: 0.2586, Average Packet Delay: 0.086456,# of packet in system: 0.347776,Packet Drop Rate: 0.0000
+Utilization: 0.4521, Average Packet Delay: 0.116624,# of packet in system: 0.818246,Packet Drop Rate: 0.0000
+Utilization: 0.6367, Average Packet Delay: 0.176474,# of packet in system: 1.759093,Packet Drop Rate: 0.0000
+Utilization: 0.8319, Average Packet Delay: 0.372757,# of packet in system: 4.842262,Packet Drop Rate: 0.0000
+Utilization: 0.9566, Average Packet Delay: 1.521349,# of packet in system: 22.758181,Packet Drop Rate: 0.0000
+-------------------------Expirement3MD1------------------------- 
+Utilization: 0.0640, Average Packet Delay: 0.066211,# of packet in system: 0.066317,Packet Drop Rate: 0.0000
+Utilization: 0.2561, Average Packet Delay: 0.075124,# of packet in system: 0.300584,Packet Drop Rate: 0.0000
+Utilization: 0.4463, Average Packet Delay: 0.090069,# of packet in system: 0.628104,Packet Drop Rate: 0.0000
+Utilization: 0.6383, Average Packet Delay: 0.120859,# of packet in system: 1.205450,Packet Drop Rate: 0.0000
+Utilization: 0.8309, Average Packet Delay: 0.223663,# of packet in system: 2.903726,Packet Drop Rate: 0.0000
+Utilization: 0.9586, Average Packet Delay: 0.812129,# of packet in system: 12.164294,Packet Drop Rate: 0.0000
+-------------------------Expirement3DM1------------------------- 
+Utilization: 0.0638, Average Packet Delay: 0.064341,# of packet in system: 0.067430,Packet Drop Rate: 0.0000
+Utilization: 0.2564, Average Packet Delay: 0.065218,# of packet in system: 0.260006,Packet Drop Rate: 0.0000
+Utilization: 0.4508, Average Packet Delay: 0.075182,# of packet in system: 0.529274,Packet Drop Rate: 0.0000
+Utilization: 0.6447, Average Packet Delay: 0.102808,# of packet in system: 1.031073,Packet Drop Rate: 0.0000
+Utilization: 0.8308, Average Packet Delay: 0.200679,# of packet in system: 2.605965,Packet Drop Rate: 0.0000
+Utilization: 0.9624, Average Packet Delay: 0.717729,# of packet in system: 10.769253,Packet Drop Rate: 0.0000
